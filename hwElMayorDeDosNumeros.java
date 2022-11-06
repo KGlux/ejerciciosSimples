@@ -18,7 +18,5 @@ public class hwElMayorDeDosNumeros {
             JOptionPane.showMessageDialog(null, "el segundo valor es mayor: "+num2);
         }
 
-
-
     }
 }
