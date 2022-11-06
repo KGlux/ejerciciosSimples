@@ -6,8 +6,6 @@ public class hwTiendaLibros {
 
     public static void main(String[] args) {
 
-        /* Hacer ejercicio leccion 24 */
-
         String nombre;
         int id;
         double price;
